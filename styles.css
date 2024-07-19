@@ -32,7 +32,7 @@ a:hover {
 }
 
 .pagrindas {
-    margin: 300px;
+    margin: 250px 200px 300px 400px;
     float: left;
     width: 600px;
     height: 300px;
@@ -41,13 +41,13 @@ a:hover {
 #h1-keisis {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 40px;
-    margin-right: 100px;
+
     }
 
 #p-keisis {
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
-    margin-right: 100px;
+    padding-top: 25px;
 }
 
 img { 
